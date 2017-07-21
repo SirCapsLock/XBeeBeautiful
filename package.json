@@ -1,0 +1,22 @@
+{
+  "name": "sylem",
+  "version": "1.0.0",
+  "description": "sylem",
+  "main": "xbee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sircapslock/xbee-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sircapslock/xbee-playground/issues"
+  },
+  "homepage": "https://github.com/sircapslock/xbee-playground#readme",
+  "dependencies": {
+    "xbee-rx": "^3.0.1"
+  }
+}
